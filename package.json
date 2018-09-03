@@ -1,0 +1,19 @@
+{
+  "name": "webpack-config-from-scratch",
+  "version": "0.1.0",
+  "description": "Configuring Webpack v4 from Scratch.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoralvess/webpack-config-from-scratch.git"
+  },
+  "author": "Victor Alves <victoralves28.pg@gmail.com> (@victoralvess)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victoralvess/webpack-config-from-scratch/issues"
+  },
+  "homepage": "https://github.com/victoralvess/webpack-config-from-scratch#readme"
+}
