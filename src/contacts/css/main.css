@@ -1,0 +1,15 @@
+/* Testing PostCSS */
+div {
+    display: flex;
+    flex-direction: row;
+}
+
+/* Testing Critical CSS */
+footer {
+    display: block;
+    margin: 25px 0 0 0;
+    padding: 2em;
+    background: lightcoral;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
